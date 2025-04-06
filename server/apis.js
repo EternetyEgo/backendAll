@@ -5,7 +5,7 @@ module.exports = (app) => {
   app.use(
     cors({
       methods: ["GET", "POST", "DELETE"],
-      origin: "*",
+      origin: "https://portfolio-eternityego.netlify.app/",
       credentials: true,
     })
   );
