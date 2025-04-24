@@ -7,7 +7,7 @@ const telegramBotToken = "7481705628:AAGEYZj5XVgCL8aTfYRXJTxwHkvNU0AJCXw";
 const chatId = "-1002635914628";
 
 // IMPORTANT: This must be the same key used on the client side
-const secretKey = "Psycho#G0d$Averion2077";
+const secretKey = "Psycho#G0d$Zecoryx2077";
 
 router.use(express.json());
 
