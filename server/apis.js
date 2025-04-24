@@ -5,7 +5,7 @@ module.exports = (app) => {
   // Dinamik CORS konfiguratsiyasi
   const allowedOrigins = [
     "https://portfolio-eternityego.netlify.app",
-    "https://portfolio-me-seven-virid.vercel.app"
+    "https://zecoryx-portfolio.vercel.app/"
   ];
 
   app.use(
